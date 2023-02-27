@@ -14,5 +14,5 @@ npm run build
 
 To run project:
 ```shell
-node dist/main.js
+npm run start
 ```
