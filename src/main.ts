@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from 'fs';
 
 const basePath: string = './content/';
 const outputPath: string = __dirname + '/.' + basePath;
